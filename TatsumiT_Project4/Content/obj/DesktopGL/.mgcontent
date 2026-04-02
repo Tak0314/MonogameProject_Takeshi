@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jerkt/OneDrive/ドキュメント/GitHub/106-personal-repo-Tak0314/Projects/TatsumiT_Project4/Content/arial36.spritefont</File>
+    <File>C:/Users/jerkt/OneDrive/ドキュメント/GitHub/106-personal-repo-Tak0314/Projects/TatsumiT_Project4/Content/gear_collectable.png</File>
+    <File>C:/Users/jerkt/OneDrive/ドキュメント/GitHub/106-personal-repo-Tak0314/Projects/TatsumiT_Project4/Content/player_proj4.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
